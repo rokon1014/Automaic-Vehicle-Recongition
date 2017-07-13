@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/rokon/final_plate_ros/devel -DCMAKE_INSTALL_PREFIX=/home/rokon/final_plate_ros/install -G Unix Makefiles
